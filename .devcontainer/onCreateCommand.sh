@@ -1,3 +1,4 @@
+/stripe.com
 #!/bin/sh
 ./script/bootstrap
 git remote add linguist https://github.com/github-linguist/linguist
